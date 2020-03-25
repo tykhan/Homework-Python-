@@ -25,7 +25,6 @@ Namespaces are one honking great idea -- let's do more of those!"""
 print ((zen_of_python).upper())
 
 #task1.2
-a = print(zen_of_python.count('never'))
-b = print(zen_of_python.count('better'))
-c = print(zen_of_python.count('is'))
-print (a + b + c)
+print(zen_of_python.count('never'))
+print(zen_of_python.count('better'))
+print(zen_of_python.count('is'))
