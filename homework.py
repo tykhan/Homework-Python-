@@ -28,3 +28,6 @@ print ((zen_of_python).upper())
 print(zen_of_python.count('never'))
 print(zen_of_python.count('better'))
 print(zen_of_python.count('is'))
+
+#task 1.3
+print(zen_of_python.replace('i', '&'))
