@@ -22,12 +22,12 @@ Namespaces are one honking great idea -- let's do more of those!"""
 
 
 #task1.1
-print ((zen_of_python).upper())
+print ((zen_of_python).upper())  #вивести весь текст у врехній регістр
 
 #task1.2
-print(zen_of_python.count('never'))
-print(zen_of_python.count('better'))
-print(zen_of_python.count('is'))
+print("Кількість входжень слова never - ", zen_of_python.count('never'))
+print("Кількість входжень слова better - ", zen_of_python.count('better'))
+print("Кількість входжень слова is - ", zen_of_python.count('is'))
 
 #task 1.3
-print(zen_of_python.replace('i', '&'))
+print(zen_of_python.replace('i', '&')) #замінти всі входження "i"
