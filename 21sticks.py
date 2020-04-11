@@ -3,3 +3,4 @@ def make_move(sticks):
         return sticks
     else:
         return sticks%4
+        
